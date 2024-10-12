@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import Header from './components/Header';
 import Services from './components/Services';
 import Contact from './components/Contact'
-import Benefits from './components/benefits';
+import Benefits from './components/Benefits';
 import Footer from './components/Footer';
 import Hero from './components/Hero';
 import WhatsAppButton from './components/WhatsAppButton';
