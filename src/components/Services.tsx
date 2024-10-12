@@ -1,4 +1,3 @@
-import React from 'react';
 import { Globe, Truck, FileText, BarChart3, DollarSign, Ship, ClipboardCheck } from 'lucide-react';
 
 const services = [

@@ -1,5 +1,3 @@
-import React from 'react';
-
 const benefits = [
   { title: "Experiencia en múltiples mercados", description: "Conocemos las particularidades de diversos mercados internacionales." },
   { title: "Ahorro de tiempo y costos", description: "Optimizamos tus procesos para mejorar la eficiencia y reducir gastos." },
